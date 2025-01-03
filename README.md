@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **srikolapalli0321@gmail.com**
 
-- 📄 Know about my experiences and details on [My Resume](https://docs.google.com/document/d/1I2YutJ1zjAbt9uaRAK65fVJC9cqCW6F1/edit?usp=sharing&ouid=117603189182424342521&rtpof=true&sd=true).
+- 📄 Know about my experiences and details on [My Resume](https://docs.google.com/document/d/1I2YutJ1zjAbt9uaRAK65fVJC9cqCW6F1/edit?usp=sharing&ouid=117603189182424342521&rtpof=true&sd=true](https://docs.google.com/document/d/1LknD-3LSojmRUdmu_fvReX4PczwGyw6c/edit?usp=drivesdk&ouid=117603189182424342521&rtpof=true).
 
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Languages and Tools:</h3> 
 - **Power BI**
 - **MySQL**
 - **Excel**
